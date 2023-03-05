@@ -1,4 +1,4 @@
-/*let mensaje;
+let mensaje;
 mensaje=prompt("Ingresar mensaje");
 
 
@@ -10,6 +10,7 @@ function mostrarMensaje(mensaje)
 mostrarMensaje(mensaje);
 
 //EJERCICIO DOS
+/*
 let numeroUno;
 let numeroDos;
 let resta;
